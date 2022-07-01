@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OCN": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

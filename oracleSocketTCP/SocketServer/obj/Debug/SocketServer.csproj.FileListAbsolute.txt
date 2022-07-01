@@ -1,0 +1,6 @@
+C:\Users\0877245\source\repos\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\0877245\source\repos\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\0877245\source\repos\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\0877245\source\repos\SocketServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
+C:\Users\0877245\source\repos\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\0877245\source\repos\SocketServer\obj\Debug\SocketServer.pdb
